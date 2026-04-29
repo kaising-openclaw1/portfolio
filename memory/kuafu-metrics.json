@@ -1,0 +1,15 @@
+{
+  "evolutions": 1,
+  "rulesActive": 4,
+  "rulesArchived": 0,
+  "mistakesThisMonth": 0,
+  "lastReflection": "2026-04-29T12:15:00+08:00",
+  "history": [
+    {
+      "date": "2026-04-29",
+      "action": "bootstrap",
+      "details": "Initial skill creation — 4 base rules from SOUL.md/AGENTS.md",
+      "rulesAdded": 4
+    }
+  ]
+}
