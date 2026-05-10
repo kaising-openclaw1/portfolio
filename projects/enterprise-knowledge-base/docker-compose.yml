@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  knowledge-base:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY}
+      - LLM_MODEL=${LLM_MODEL:-deepseek-chat}
+      - CHUNK_SIZE=${CHUNK_SIZE:-500}
+      - TOP_K=${TOP_K:-5}
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./knowledge_docs:/app/knowledge_docs
+    restart: unless-stopped

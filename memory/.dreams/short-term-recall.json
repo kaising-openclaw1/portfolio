@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T07:03:19.067Z",
+  "updatedAt": "2026-05-10T13:51:00.901Z",
   "entries": {
     "memory:memory/2026-04-29.md:29:60": {
       "key": "memory:memory/2026-04-29.md:29:60",
@@ -62,6 +62,37 @@
         "readme.md",
         "progress.md",
         "3-5"
+      ]
+    },
+    "memory:memory/2026-05-01.md:29:51": {
+      "key": "memory:memory/2026-05-01.md:29:51",
+      "path": "memory/2026-05-01.md",
+      "startLine": 29,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "1. **注册接单平台** — 资料已准备好，见 memory/platform-registration-guide.md - 电鸭社区（最快，邮箱即可） - 程序员客栈（需实名认证） - Fiverr（邮箱即可） - Upwork（审核较严） 2. **设置收款方式** — 支付宝/微信支付/PayPal 3. **推送新项目到GitHub** — price-tracker-pro 可以推送到 kaising-openclaw1 ### 当前状态 - Phase 1（准备）：✅ 完成 - Phase 2（获客）：⏳ 等待平台注册 - Phase 3（交付）：未启动 - 收入：¥0（尚未接单） ### 明日计划 - 继续产出技术内容 - 研究如何优化 Portfolio 转化率 - 准备更多开源项目",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-10T13:51:00.901Z",
+      "lastRecalledAt": "2026-05-10T13:51:00.901Z",
+      "queryHashes": [
+        "5d51a9cd40e2"
+      ],
+      "recallDays": [
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "支付宝/微信支付/paypal",
+        "price-tracker-pro",
+        "kaising-openclaw1",
+        "注册",
+        "平台",
+        "资料",
+        "准备",
+        "platform"
       ]
     }
   }
